@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitterizer App", "TwitterPracticeTwitterizer\Twitterizer App.csproj", "{59F4245D-068D-4778-B6B3-55F38A1EC766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F4245D-068D-4778-B6B3-55F38A1EC766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F4245D-068D-4778-B6B3-55F38A1EC766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F4245D-068D-4778-B6B3-55F38A1EC766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F4245D-068D-4778-B6B3-55F38A1EC766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B9F41A-F5AE-4B24-9463-5C5B5DFE7EB0}
+	EndGlobalSection
+EndGlobal
