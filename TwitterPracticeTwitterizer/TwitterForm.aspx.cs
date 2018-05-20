@@ -23,7 +23,7 @@ namespace TwitterPracticeTwitterizer
             // Set up your credentials (https://apps.twitter.com)
             Auth.SetUserCredentials(ConsumerKey, ConsumerSecret, Token, TokenSecret);
 
-            // Publish the Tweet "Hello World" on your Timeline
+            // Publish the Tweet on your Timeline
             Tweet.PublishTweet(tbTweet.Text.ToString());
         }
 
